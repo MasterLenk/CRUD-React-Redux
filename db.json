@@ -1,0 +1,109 @@
+{
+    "users" : [
+        {
+          "id": 1,
+          "nama": "Khairunnazri, S.Kom., M.Kom.",
+          "alamat": "Bangle",
+          "umur": 30,
+          "nohp": "081934999246"
+        },
+        {
+            "id": 2,
+            "nama": "Khairunnazri, S.Kom., M.Kom.",
+            "alamat": "Bangle",
+            "umur": 30,
+            "nohp": "081934999246"
+        },
+        {
+            "id": 3,
+            "nama": "Khairunnazri, S.Kom., M.Kom.",
+            "alamat": "Bangle",
+            "umur": 30,
+            "nohp": "081934999246"
+        },
+        {
+            "id": 4,
+            "nama": "Khairunnazri, S.Kom., M.Kom.",
+            "alamat": "Bangle",
+            "umur": 30,
+            "nohp": "081934999246"
+        },
+        {
+            "id": 5,
+            "nama": "Khairunnazri, S.Kom., M.Kom.",
+            "alamat": "Bangle",
+            "umur": 30,
+            "nohp": "081934999246"
+        },
+        {
+            "id": 6,
+            "nama": "Khairunnazri, S.Kom., M.Kom.",
+            "alamat": "Bangle",
+            "umur": 30,
+            "nohp": "081934999246"
+        },
+        {
+            "id": 7,
+            "nama": "Khairunnazri, S.Kom., M.Kom.",
+            "alamat": "Bangle",
+            "umur": 30,
+            "nohp": "081934999246"
+        },
+        {
+            "id": 8,
+            "nama": "Khairunnazri, S.Kom., M.Kom.",
+            "alamat": "Bangle",
+            "umur": 30,
+            "nohp": "081934999246"
+        },
+        {
+            "id": 9,
+            "nama": "Khairunnazri, S.Kom., M.Kom.",
+            "alamat": "Bangle",
+            "umur": 30,
+            "nohp": "081934999246"
+        },
+        {
+            "id": 10,
+            "nama": "Khairunnazri, S.Kom., M.Kom.",
+            "alamat": "Bangle",
+            "umur": 30,
+            "nohp": "081934999246"
+        },
+        {
+            "id": 11,
+            "nama": "Khairunnazri, S.Kom., M.Kom.",
+            "alamat": "Bangle",
+            "umur": 30,
+            "nohp": "081934999246"
+        },
+        {
+            "id": 12,
+            "nama": "Khairunnazri, S.Kom., M.Kom.",
+            "alamat": "Bangle",
+            "umur": 30,
+            "nohp": "081934999246"
+        },
+        {
+            "id": 13,
+            "nama": "Khairunnazri, S.Kom., M.Kom.",
+            "alamat": "Bangle",
+            "umur": 30,
+            "nohp": "081934999246"
+        },
+        {
+            "id": 14,
+            "nama": "Khairunnazri, S.Kom., M.Kom.",
+            "alamat": "Bangle",
+            "umur": 30,
+            "nohp": "081934999246"
+        },
+        {
+            "id": 15,
+            "nama": "Khairunnazri, S.Kom., M.Kom.",
+            "alamat": "Bangle",
+            "umur": 30,
+            "nohp": "081934999246"
+        }
+    ]
+}
